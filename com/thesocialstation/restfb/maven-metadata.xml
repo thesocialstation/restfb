@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.thesocialstation</groupId>
+  <artifactId>restfb</artifactId>
+  <versioning>
+    <versions>
+      <version>1.23.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160503182445</lastUpdated>
+  </versioning>
+</metadata>
